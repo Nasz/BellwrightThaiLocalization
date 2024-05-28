@@ -14,7 +14,7 @@
 โหลดไฟล์ม็อด แตกไฟล์ แล้วนำไฟล์ zBRThai_P.pak ไปวางใว้ในนั้น
 
 ###### วิธีถอนการติดตั้ง 
-ลบไฟล์ zBRThai_P.pak ใน steamapps\common\Bellwright\Bellwright\Content\Paks\~mods ออก
+ลบไฟล์ zBRThai_P.pak ใน steamapps\common\Bellwright\Bellwright\Content\Paks\\~mods ออก
 
 ###### โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 
