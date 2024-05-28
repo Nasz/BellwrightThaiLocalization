@@ -1,27 +1,22 @@
-# Sengoku Dynasty Thai Localization (Community Version)
+# Bellwright Thai Localization
 
-แปลไทยเกม เบลไรท์
+แปลไทยเกม เบลไรท์ ผู้พิทักษ์เกียรติยศ
 
-## สถานะการแปล 21.58%
+ม็อดนี้ใช้ Generative AI ร่วมในการแปล ดังนั้นนอกจากสถานะการแปลด้านล่างแล้ว คำแปลที่เหลือจึงเป็นคำแปลจาก AI
 
-**รองรับเกมเวอร์ชัน 10 พฤภาคม 2567**
+## สถานะการแปล 15.83%
 
-![image](https://github.com/Nasz/SengokuDynastyThaiLocalization/assets/384751/2f0e31fd-73d6-439d-8e9a-15ed5dcaccf0)
+**รองรับเกมเวอร์ชัน 27 พฤษภาคม 2567**
 
 ###### วิธีติดตั้ง 
-
-สร้างโฟลเดอร์ ~mods ไว้ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks
-นำไฟล์ zSDThai_P.pak ไปวางใว้ในนั้น
+ติดตั้งตัวปลดล็อคม็อดก่อน [Joew's Bellwright Mods Unlocker](https://www.nexusmods.com/bellwright/mods/2)
+สร้างโฟลเดอร์ ~mods ไว้ใน {SteamLibrary}\steamapps\common\Bellwright\Bellwright\Content\Paks
+โหลดไฟล์ม็อด แตกไฟล์ แล้วนำไฟล์ zBRThai_P.pak ไปวางใว้ในนั้น
 
 ###### วิธีถอนการติดตั้ง 
-
-ลบไฟล์ zSDThai_P.pak ใน steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods ออก
+ลบไฟล์ zBRThai_P.pak ใน steamapps\common\Bellwright\Bellwright\Content\Paks\~mods ออก
 
 ###### โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 
-* ศรีราชา และ Noto Sans Thai โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
-* Noto Sans โดย [กูเกิล](https://fonts.google.com/noto)
-
-บัคที่พบในตอนนี้ ชื่อของตัวละครโจรที่สปอร์นมีบางครั้งแสดงเป็นภาษาต่างดาว
-
-Thank [matyalatte](https://github.com/matyalatte) for Modding Tools.
+* Noto Sans Thai โดย [Google](https://about.google/)
+* Sarabun โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
